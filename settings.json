@@ -1,0 +1,63 @@
+{
+  "remote.autoForwardPortsSource": "hybrid",
+  "editor.fontFamily": "JetBrains Mono",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "apc.imports": [
+    "file:///c:/Users/leand/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "workbench.startupEditor": "none",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "apc.font.family": "Dank Mono",
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "window.titleBarStyle": "custom",
+  "apc.stylesheet": {
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    ".sidebar": "border: none !important",
+    ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #67d0FF, 10%, #C45DFF 100%)",
+    ".quick-input-list-row div": "display: flex !important; align-items: center !important"
+  },
+  "workbench.colorTheme": "Dracula Theme",
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "none",
+  "editor.minimap.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.showFoldingControls": "never",
+  "editor.scrollbar.horizontalScrollbarSize": 7,
+  "editor.scrollbar.verticalScrollbarSize": 7,
+  "editor.overviewRulerBorder": false,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.fontLigatures": true,
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.tabs.enabled": false,
+  "window.customTitleBarVisibility": "never",
+  "window.menuBarVisibility": "compact",
+  "explorer.compactFolders": false,
+  "editor.fontSize": 13,
+  "workbench.layoutControl.enabled": false,
+  "window.title": " ",
+  "window.commandCenter": false,
+  "editor.bracketPairColorization.enabled": false,
+  "scm.diffDecorationsGutterAction": "none",
+  "editor.lineHeight": 19,
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#141419",
+    "editor.background":"#1a1b20",
+    "tab.activeBackground":"#282a36",
+    "tab.activeBorderTop": "#13bff3"
+  },
+}
